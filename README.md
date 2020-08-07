@@ -1,0 +1,1 @@
+Multiplicar aplicación
