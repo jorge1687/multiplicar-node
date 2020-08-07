@@ -18,3 +18,4 @@ switch (comando) {
     default:
         console.log('comando no reconocido');
 }
+console.log('Termina programa');
